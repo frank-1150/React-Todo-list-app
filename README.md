@@ -2,7 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Online Demo
+
+Online demo is hosted on the Codesandbox on this link: [https://codesandbox.io/s/github/frank-1150/React-Todo-list-app](React-Todo-list-app)
+
+## How to use
 
 In the project directory, you can run:
 
