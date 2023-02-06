@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+# About this app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app is built following the tutorials on MDN web docs [Getting started with React](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started).
+It's a pure frontend, single page app, but with some routing settings embedded for future use using react-router-dom module.
 
 ## Online Demo
 
-Online demo is hosted on the Codesandbox on this link: [https://codesandbox.io/s/github/frank-1150/React-Todo-list-app](React-Todo-list-app)
+Online demo is hosted on the Codesandbox on this link: [React-Todo-list-app](https://codesandbox.io/s/github/frank-1150/React-Todo-list-app)
 
 ## How to use
 
