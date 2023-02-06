@@ -3,6 +3,10 @@
 This app is built following the tutorials on MDN web docs [Getting started with React](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started).
 It's a pure frontend, single page app, but with some routing settings embedded for future use using react-router-dom module.
 
+Final result looks like this:
+![image](https://user-images.githubusercontent.com/76094159/216879070-e1112d5e-1056-4244-a9ec-9a88487ec08c.png)
+
+
 ## Online Demo
 
 Online demo is hosted on the Codesandbox on this link: [React-Todo-list-app](https://codesandbox.io/s/github/frank-1150/React-Todo-list-app)
