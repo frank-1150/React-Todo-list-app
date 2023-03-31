@@ -1,6 +1,5 @@
 # About this app
 
-This app is built following the tutorials on MDN web docs [Getting started with React](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started).
 It's a pure frontend, single page app, but with some routing settings embedded for future use using react-router-dom module.
 
 Final result looks like this:
@@ -10,6 +9,8 @@ Final result looks like this:
 ## Online Demo
 
 Online demo is hosted on the Codesandbox on this link: [React-Todo-list-app](https://codesandbox.io/s/github/frank-1150/React-Todo-list-app)
+
+# Development guidance
 
 ## How to use
 
@@ -77,3 +78,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+###
+This app is built following the tutorials on MDN web docs [Getting started with React](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started).
